@@ -1,0 +1,316 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.upper-navbar{
+    height: 35px;
+    background-color: black;
+}
+.upper-navbar ol{
+    width: 500px;
+    padding: 10px;
+    margin-left: 350px;
+    /* height: 100px; */
+    display: flex;
+    color: white;
+    font-size: xx-small;
+    /* align-items: center; */
+    /* justify-content: center; */
+    list-style: none;
+    font-weight: bold;
+    justify-content: space-between;
+    background-color: black;
+
+}
+
+.container{
+    height: 120vh;
+    background-size: cover;
+    background-image: url(./middleton-global-launch-hero-desktop.jpg);
+}
+.navbar{
+    /* backdrop-filter: blur(9px) saturate(180%);
+    -webkit-backdrop-filter: blur(9px) saturate(180%);
+    background-color: rgba(255, 255, 255, 0.29);
+    border-radius: 12px;
+    border: 1px solid rgba(209, 213, 219, 0.3);
+ */
+    height: 50px;
+    background-color: rgb(47, 46, 46,0.9);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+    /* flex-direction: column; */
+    font-size: small;
+    list-style: none;
+    padding: 20px;
+    /* width: 500px; */
+    /* justify-content: space-between; */
+}
+.container4 img{
+    height: 120vh;
+    background-size: cover;
+}
+
+
+.text-section4{
+    width: 400px;
+    height: 130px;
+    margin-top: -500px;
+    display: flex;
+    justify-content: center;
+    color: white;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 800px;
+
+}
+.text-section4 h1{
+    margin-left: 20px;
+
+}
+.text-section4 button{
+    width:  150px;
+    height: 40px;
+    margin-left: 80px;
+    font-weight: 100;
+    font-size: bold;
+}
+
+.navbar ol{
+    height: 50px;
+    display: flex;
+    /* font-weight: 100; */
+    font-size: small;
+    list-style: none;
+    width: 600px;
+    justify-content: space-between;
+}
+.navbar h1{
+    margin-top: -10px;
+}
+.text-section{
+    
+    width: 600px;
+    height: 430px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    padding-left:100px ;
+    padding-top:200px ;
+    color: white;
+    /* padding: 100px; */
+}
+.text-section h1{
+    font-size: 60px;
+}
+.text-section button{
+    width: 200px;
+    height: 30px;
+    font-weight: bold;
+}
+.container-2{
+    padding: 50px;
+    padding-bottom: 100px;
+    background-color: rgb(59, 56, 56);
+
+}
+.text-section2{
+    
+    width:500px;
+    height: 150px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    margin-left:400px ;
+    margin-top:10px ;
+    color: white;
+    /* padding: 100px; */
+}
+.text-section2 h1{
+    font-size: 60px;
+}
+.text-section2 button{
+    width: 200px;
+    height: 30px;
+    margin-left: 120px;
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: center; */
+}
+.text-section2 h1{
+    font-size: 40px;
+    margin-left: 100px;
+}
+.container-5{
+    height: 130vh;
+
+}.img-section5 img{
+    width: 1200px;
+margin-top: 400px;
+/* margin-left: 50px; */
+}
+
+.main-conatiner5{
+    height: 230vh;
+    padding: 50px;
+    padding-bottom: 100px;
+    background-color: rgb(59, 56, 56);
+
+}
+
+.text-section5{
+    
+    width:400px;
+    height: 150px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    margin-left:400px ;
+    margin-top:-200px ;
+    color: white;
+    /* padding: 100px; */
+}
+.text-section5 h1{
+    font-size: 50px;
+    margin-left: 100px;
+}
+.text-section5 button{
+    width: 200px;
+    height: 30px;
+    margin-left: 120px;
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: center; */
+}
+.input2{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    margin-top: 100px;
+
+}
+.input2 h4{
+    width: 300px;
+    font-size:20px;
+    display: flex;
+}
+.input2 input{
+    width: 300px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+
+
+}
+.input2 p{
+    width: 200px;
+}
+.input2 a{
+    color: white;
+
+}
+
+.input2 button{
+    width: 200px;
+    height: 40px;
+}
+.container-6{
+    height: 130vh;
+    background-color: black;
+    margin-top: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-weight: 100;
+    font-size: smaller;
+    color: white;
+    padding: 80px;
+    
+    
+}
+.customer{
+    width: 500px ;
+    height: 600px;
+    
+}
+.customer a{
+    text-decoration: none;
+    color: gray;
+    
+}
+
+.policy{
+    margin-left: 300px;
+    margin-top: -265px;
+    
+    
+    
+}
+.acc{
+    margin-top: -170px;
+    width: 200px;
+    /* margin-top:-160px; */
+    margin-left: 500px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: smaller;
+    justify-content: space-between;
+}
+.acc button{
+    width: 200px;
+    height: 40px;
+    font-size: small;
+    font-weight: bold;
+}
+.acc h4{
+    font-size: 20px;
+    
+}
+.pymt{
+    
+    /* border: 1px solid red; */
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 50px;
+    margin-left: 450px;
+}
+.pymt h2{
+    margin-right: 50px;
+}
+.pytm-apk{
+    width: 400px;
+    height: 50px;
+    word-spacing: 10px;
+    /* border: 1px solid red; */
+    height: 30px;
+    font-size: 40px;
+    justify-content: space-between;
+    margin-bottom:50px;
+    margin-left: 400px;
+}
+.downbar{
+    /* width: 900px; */
+    display: flex;
+    justify-content: space-between;
+}
+.downbar h5{
+    width: 200px;
+    font-size: 10px;
+}
+
+.downbar span{
+     font-size: 40px;
+}
